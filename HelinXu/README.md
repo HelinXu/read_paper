@@ -1,5 +1,9 @@
 # Helin Xu log
 
+## 2021.03.11
+
+- 动态神经网络综述 [【深度】动态神经网络综述 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/354507714)
+
 ## 2021.03.10
 
 - **Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild** （这真妙）
