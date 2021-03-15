@@ -1,5 +1,17 @@
 # Helin Xu log
 
+## 2021.03.11
+
+- 动态神经网络综述 [【深度】动态神经网络综述 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/354507714)
+
+## 2021.03.10
+
+- **Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild** （这真妙）
+- **CVPR 2020 Best Paper**
+  - 主页：https://elliottwu.com/projects/unsup3d/
+  - 论文：https://arxiv.org/abs/1911.11130
+  - 代码：https://github.com/elliottwu/unsup3d
+
 ## 2021.03.06
 
 - 看了 CV_3D_reconstruction 的三篇文章的摘要。
